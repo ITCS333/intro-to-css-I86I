@@ -15,11 +15,11 @@
 --------------------------------------------------------------- */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
   background-color: #f5f5f5;
   color: #333333;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 
@@ -232,7 +232,6 @@ cite {
      - Change the background-color to #f39c12
      - Add a smooth transition: all 0.3s ease
 --------------------------------------------------------------- */
-
 .btn {
   display: inline-block;
   background-color: #2c3e50;
@@ -247,7 +246,6 @@ cite {
 .btn:hover {
   background-color: #f39c12;
 }
-
 /* ---------------------------------------------------------------
    EXERCISE 15 — Footer
    Target the element with the id "main-footer" and:
